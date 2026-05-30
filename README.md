@@ -1,7 +1,7 @@
 # QuickChat - Part 1
 
 ## Student Details
-* **Student Number:** ST12345678  * **Module:** Programming Logic and Design (PRLD)
+* **Student Number:** ST12345678  * **Module:** Programming (Prog)
 * **IDE:** Apache NetBeans
 
 ---
