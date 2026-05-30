@@ -1,7 +1,7 @@
 # QuickChat - Part 1
 
 ## Student Details
-* **Student Number:** ST12345678  * **Module:** Programming (Prog)
+* **Student Number:** ST10525768  * **Module:** Programming (Prog)
 * **IDE:** Apache NetBeans
 
 ---
